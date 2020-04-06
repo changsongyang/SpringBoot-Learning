@@ -14,7 +14,7 @@
 ## 教程目录
 
 - [Spring Boot 1.x 版本教程](./1.x)
-- [Spring Boot 2.x 版本教程](./2.1.x)
+- [Spring Boot 2.1.x 版本教程](./2.1.x)
 
 > **关注公众号：“程序猿DD”**，领取我整理的免费学习资料。<br>
 
@@ -24,27 +24,22 @@
       <tbody>
         <tr>
           <td align="center" valign="middle">
-            <a href="https://coding.net/?utm_source=zhaiyongchao&utm_medium=banner&utm_campaign=march2019" target="_blank">
-              <img width="300" src="http://img.didispace.com/FnGMv3D7dpWOT5U31FqM0mXNQMrm">
-            </a>
-          </td>
-          <td align="center" valign="middle">
-            <a href="https://www.aliyun.com/minisite/goods?userCode=wxfqkr0o&share_source=copy_link" target="_blank">
-              <img width="300" src="https://tva1.sinaimg.cn/large/006tNbRwgy1g9utcfi2hxj308c02i755.jpg">
+            <a href="https://www.aliyun.com/1111/2019/group-buying-share?ptCode=1946814D2840EE4FEC0971C48B9B5785647C88CF896EF535&userCode=wxfqkr0o&share_source=copy_link" target="_blank">
+              <img width="300" src="http://img.didispace.com/FrBZXqNxoQe5jH22o_-CWIoi9EFC">
             </a>
           </td>  
           <td align="center" valign="middle">
             <a href="http://gk.link/a/103EK" target="_blank">
               <img width="300" src="http://img.didispace.com/FraIu771RXtYnQ3o5croL31PVzUB">
             </a>
-          </td>   
-        </tr>
-        <tr>
+          </td>  
           <td align="center" valign="middle">
             <a href="https://cloud.tencent.com/redirect.php?redirect=1027&cps_key=f6a8af1297bfac40b9d10ffa1270029a&from=console" target="_blank">
-              <img width="300" src="http://img.didispace.com/FlcCuj0c-JhViRzr1wrynE941T9b">
+              <img width="300" src="http://img.didispace.com/Fh7dmIAMf6s6qVDgFn4G0LKzK6pK">
             </a>
-          </td> 
+          </td>            
+        </tr>
+        <tr>
           <td align="center" valign="middle">
              <a href="https://openwrite.cn/?from=didi-springboot" target="_blank">
                <img width="300" src="http://img.didispace.com/Foaph7vaVxs-bPRrFrEEKAYadPgg">
@@ -55,6 +50,9 @@
 </table>
 
 > 如果您也想赞助支持并出现在上表中的话，可以通过邮件联系我：`didi@didispace.com`
+
+- [阿里云：ECS云服务器2折起](https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=wxfqkr0o&utm_source=wxfqkr0o)
+- [腾讯云：轻松应对建站成本问题](https://cloud.tencent.com/redirect.php?redirect=1027&cps_key=f6a8af1297bfac40b9d10ffa1270029a&from=console)
 
 ## 推荐内容
 
